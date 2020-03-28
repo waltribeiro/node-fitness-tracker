@@ -27,11 +27,11 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", { use
 
 // Routes go here
 app.get("/", (req, res) => {
-    res.sendFile(path.join(__dirname, "/public/index.html"));
+    res.sendFile(path.join(__dirname, "/public/index-public.html"));
 });
 
 app.get("/exercise", (req, res) => {
-    res.sendFile(_dirname, "public/exercise.html");
+    res.sendFile(path.join(__dirname, "/public/exercise-public.html"));
 });
 
 app.listen(PORT, () => {
