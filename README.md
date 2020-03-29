@@ -10,7 +10,15 @@ After the workout is completed, then use the dashboard to see the stats of your 
 
 ## Description
 
-![walt ribeiro](/public/img/browser-4-node-fitness-tracker.png)
+<img src="public/img/browser-4-node-fitness-tracker.png" style="width:600px">
+<br><br>
+<img src="public/img/gym-4.png" style="width:600px">
+<br><br>
+<img src="public/img/gym-2.png" style="width:600px">
+<br><br>
+<img src="public/img/gym-3.png" style="width:600px">
+
+
 
 ## Installation
 
