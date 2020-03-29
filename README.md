@@ -30,6 +30,12 @@ This assignment will require you to create Mongo database with a Mongoose schema
 
 <img src="https://img.shields.io/badge/license-mit-orange">
 
+Photograph credits:
+* picture 1: by [walt ribeiro](http://waltrib.com)
+* picture 2: by [raeng](https://unsplash.com/photos/E-HKcFWMM34)
+* picture 3: by [quino al](https://unsplash.com/photos/iRt9yOWzfOk)
+* picture 4: by [william hook](https://unsplash.com/photos/9e9PD9blAto)
+
 ## Heroku
 https://node-fitness-tracker.herokuapp.com/
 
