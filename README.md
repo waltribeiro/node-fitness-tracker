@@ -12,11 +12,9 @@ After the workout is completed, then use the dashboard to see the stats of your 
 
 <img src="public/img/browser-4-node-fitness-tracker-small.png">
 <br><br>
-<img src="public/img/gym-4-small.png">
-<br><br>
 <img src="public/img/gym-2-small.png">
 <br><br>
-<img src="public/img/gym-3-small.png">
+<img src="public/img/gym-4-small.png">
 
 
 
