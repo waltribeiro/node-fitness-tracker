@@ -30,8 +30,12 @@ app.get("/", (req, res) => {
     res.sendFile(path.join(__dirname, "/public/index-public.html"));
 });
 
-app.get("/exercise", (req, res) => {
+app.get("/exercise-public", (req, res) => {
     res.sendFile(path.join(__dirname, "/public/exercise-public.html"));
+});
+
+app.get("/stats-public", (req, res) => {
+    res.sendFile(path.join(__dirname, "/public/stats-public.html"));
 });
 
 app.listen(PORT, () => {
